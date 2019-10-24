@@ -11,4 +11,4 @@ LeapMotionを用いて，ハンドジェスチャーで花火を打ち上げる�
 
 をライブラリとしてインポートしています．
 
-HappyFireWorks.pdeを実行することで実行できます．
+LaunchFireWorks.pdeを実行することで実行できます．
